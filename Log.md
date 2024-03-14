@@ -28,3 +28,16 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
  Thoughts: Still amazed with how the framework simplifies work
 
  Link to work :https://github.com/1287Apiyo/Banking-App-Using-SpringBoot-3
+
+
+ # Day3 of 99: March 14th,2024
+
+ Todays progress: I created a database connection for my projects using MySQL Server and MySQL Workbench
+  and learnt how to connect the project to the created database
+
+  Thoughts: Learning the basics of MySQL server and how to operate the Workbench is a key concept in this database connection
+
+  Link to Work: https://github.com/1287Apiyo/Banking-App-Using-SpringBoot-3
+
+  Link 2:https://github.com/1287Apiyo/MySQL
+  
