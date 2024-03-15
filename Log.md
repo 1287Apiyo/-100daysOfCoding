@@ -40,4 +40,13 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Link to Work: https://github.com/1287Apiyo/Banking-App-Using-SpringBoot-3
 
   Link 2:https://github.com/1287Apiyo/MySQL
+
+  # Day4 of 99:March 15th,2024
+
+  Todays progress: Learnt about API's, API Contracts and JSON 
+
+  Thoughts: Finally understood how API'S hork and what JSON is..initially they seemed like very technical terms!!
+
+  Link to work: https://github.com/1287Apiyo/API-CONTRACTS-AND-JSON
+  
   
