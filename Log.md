@@ -45,7 +45,7 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
 
   Todays progress: Learnt about API's, API Contracts and JSON 
 
-  Thoughts: Finally understood how API'S hork and what JSON is..initially they seemed like very technical terms!!
+  Thoughts: Finally understood how API'S work and what JSON is..initially they seemed like very technical terms!!
 
   Link to work: https://github.com/1287Apiyo/API-CONTRACTS-AND-JSON
   
