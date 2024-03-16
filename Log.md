@@ -48,5 +48,13 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: Finally understood how API'S work and what JSON is..initially they seemed like very technical terms!!
 
   Link to work: https://github.com/1287Apiyo/API-CONTRACTS-AND-JSON
+
+
+  # Day5 of 99:March 16th,2024
   
+  Todays progress: After delving deeper into APIs, I focused my efforts on building CRUD applications using REST API principles and Spring Boot Initializer. 
   
+
+  Thoughts: This hands on experience is is expanding my understanding of APIs
+
+  Link to work: https://github.com/1287Apiyo/CRUD-app
