@@ -58,3 +58,12 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: This hands on experience is is expanding my understanding of APIs
 
   Link to work: https://github.com/1287Apiyo/CRUD-app
+
+
+  # Day6 of 99:March 17th,2024
+
+  Today's progress: Still working on the CRUD Application 
+
+  Thoughts: It is a very wide area that touches on different concepts that need to be understood as different entities
+
+  Link to work: https://github.com/1287Apiyo/CRUD-app
