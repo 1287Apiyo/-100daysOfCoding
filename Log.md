@@ -69,7 +69,7 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Link to work: https://github.com/1287Apiyo/CRUD-app
 
 
-  #Day7 of 99:March 18th,2024
+  # Day7 of 99:March 18th,2024
 
   Today's progress: I learnt how to connect my project to a h2 database which is an in memory database instead of creating one from scratch
 
