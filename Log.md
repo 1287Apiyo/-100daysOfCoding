@@ -67,3 +67,12 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: It is a very wide area that touches on different concepts that need to be understood as different entities
 
   Link to work: https://github.com/1287Apiyo/CRUD-app
+
+
+  #Day7 of 99:March 18th,2024
+
+  Today's progress: I learnt how to connect my project to a h2 database which is an in memory database instead of creating one from scratch
+
+  Thoughts: I still have a lot of grasping and learning to do when it comes to database connectivity
+
+  Link to work:https://github.com/1287Apiyo/CRUD-app
