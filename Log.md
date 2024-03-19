@@ -76,3 +76,12 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: I still have a lot of grasping and learning to do when it comes to database connectivity
 
   Link to work:https://github.com/1287Apiyo/CRUD-app
+
+
+  # Day8 of 99:March 19th,2024
+
+  Today's progress : Implemented a create application(Added functionality to add new records to the database.
+
+  Thoughts: Progressively getting deeper !!
+
+  Link to work:https://github.com/1287Apiyo/CRUD-app
