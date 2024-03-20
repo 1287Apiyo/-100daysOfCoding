@@ -85,3 +85,12 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: Progressively getting deeper !!
 
   Link to work:https://github.com/1287Apiyo/CRUD-app
+
+
+  # Day9 of 99: March 20th,2024
+
+  Today's progress: I am making steady progress, and the foundation of the CRUD application is taking shape. 
+
+  Thoughts: Every small step counts
+
+  Link to work: https://github.com/1287Apiyo/CRUD-app
