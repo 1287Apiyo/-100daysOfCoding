@@ -1,4 +1,4 @@
-# 100DaysOfCode-Log
+![image](https://github.com/1287Apiyo/100daysOfCoding/assets/93118744/5aa2b67f-2d22-4c63-98c8-3aa4f39020a4)# 100DaysOfCode-Log
 # Day0 of 99 :March 11,2024
 # (delete or comment me out)
   Today's progress:Learnt the introductory part of SpringBoot framework,
@@ -94,3 +94,12 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thoughts: Every small step counts
 
   Link to work: https://github.com/1287Apiyo/CRUD-app
+
+  # Day10 of 99:March 21st,2024
+
+  Today's progress: I incorporated the Response Entity in my applicattion and managed to understand and add the HHTP Status 
+  Codes 
+
+  Thought: As much as framewroks easen our work in programming..learning the basics of the language is really important as     it has increased my understanding and grasp of this topic of interest.
+
+  Link to work:https://github.com/1287Apiyo/CRUD-app
