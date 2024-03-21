@@ -97,9 +97,9 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
 
   # Day10 of 99:March 21st,2024
 
-  Today's progress: I incorporated the Response Entity in my applicattion and managed to understand and add the HHTP Status 
+  Today's progress: I incorporated the Response Entity in my applicattion and managed to understand and add the HTTP Status 
   Codes 
 
-  Thought: As much as framewroks easen our work in programming..learning the basics of the language is really important as     it has increased my understanding and grasp of this topic of interest.
+  Thought: As much as framewroks easen our work in programming..learning the basics of the language is really important as it has increased my understanding and grasp of this topic of interest.
 
   Link to work:https://github.com/1287Apiyo/CRUD-app
