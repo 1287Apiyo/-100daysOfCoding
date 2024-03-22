@@ -1,4 +1,4 @@
-![image](https://github.com/1287Apiyo/100daysOfCoding/assets/93118744/5aa2b67f-2d22-4c63-98c8-3aa4f39020a4)# 100DaysOfCode-Log
+# 100DaysOfCode-Log
 # Day0 of 99 :March 11,2024
 # (delete or comment me out)
   Today's progress:Learnt the introductory part of SpringBoot framework,
@@ -103,3 +103,13 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
   Thought: As much as framewroks easen our work in programming..learning the basics of the language is really important as it has increased my understanding and grasp of this topic of interest.
 
   Link to work:https://github.com/1287Apiyo/CRUD-app
+
+  # Day 11 of 99:March 22nd ,2024
+
+  Today's progress : Implemented the User repository interface (UserRepository) that extends JpaRepository<User, and
+Leveraged built-in methods for common database operations (e.g., saving, retrieving, updating, and deleting users).
+
+Thoughts: Running my application in the localhost server is yet an issue for me .. still have to learn the steps clearly to rid me of 
+the same issue
+
+Link to today's wprk:https://github.com/1287Apiyo/CRUD-app
