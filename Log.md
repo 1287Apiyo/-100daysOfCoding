@@ -112,4 +112,13 @@ Leveraged built-in methods for common database operations (e.g., saving, retriev
 Thoughts: Running my application in the localhost server is yet an issue for me .. still have to learn the steps clearly to rid me of 
 the same issue
 
-Link to today's wprk:https://github.com/1287Apiyo/CRUD-app
+Link to today's work:https://github.com/1287Apiyo/CRUD-app
+
+# Day 12 of 99: March 23rd,2024
+
+Today's progress: I have successfully completed the development of my CRUD application using Spring Boot
+
+Thought: Moving forward, I plan to deploy the application . I'm excited about the progress made so far and look forward to the next steps in this project.
+
+Link to Work: https://github.com/1287Apiyo/CRUD-app
+
