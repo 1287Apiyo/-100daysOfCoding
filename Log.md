@@ -118,6 +118,18 @@ Link to today's work:https://github.com/1287Apiyo/CRUD-app
 
 Today's progress: I have successfully completed the development of my CRUD application using Spring Boot
 
+Link to today's work:https://github.com/1287Apiyo/CRUD-app
+
+# Day 13 of 99: March 24th,2024
+
+Today's progress: I began working on the Datastructures and algorithms in Java and began with the implementation of arrays as a data structure
+
+Thought: Not a new concept but it's implementation in java and code form is really important.
+
+Link to work: https://github.com/1287Apiyo/Data-Structures-And-Algorithm
+            :
+            https://github.com/1287Apiyo/DS-Arrays.java
+
 Thought: Moving forward, I plan to deploy the application . I'm excited about the progress made so far and look forward to the next steps in this project.
 
 Link to Work: https://github.com/1287Apiyo/CRUD-app
