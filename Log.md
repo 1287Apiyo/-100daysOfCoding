@@ -132,6 +132,21 @@ Link to work: https://github.com/1287Apiyo/Data-Structures-And-Algorithm
              
 https://github.com/1287Apiyo/DS-Arrays.java
 
+# Day 14 of 99: March 25th,2024
+
+Today's progress: I implemented various array manipulation operations such as insertion, deletion, and searching for an element in an array.
+
+Thought: Practice is key!!
+
+Link to work: https://github.com/1287Apiyo/DS-Arrays.java
+
+# Day 15 of 99: March 26th,2024
+
+Today's progress: Array sorting: I wrote code to sort arrays using different sorting algorithms like bubble sort and quick sort.
+
+Thought: Practice each day!!
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java
 
 
 
