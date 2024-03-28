@@ -149,4 +149,23 @@ Thought: Practice each day!!
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java
 
 
+# Day 16 of 99: March 26th,2024
+
+Today's progress: did arrayLists on data structures
+
+Thought: Practice each day!!
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java
+
+
+# Day 1 of 99: March 26th,2024
+
+Today's progress: Today i worked on LinkedLists as a data structure in java and managed to write some code on it
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java
+
+
+
+
 
