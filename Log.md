@@ -158,12 +158,50 @@ Thought: Practice each day!!
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java
 
 
-# Day 17 of 99: March 26th,2024
+# Day 17 of 99: March 27th,2024
 
 Today's progress: Today I worked on LinkedLists as a data structure in java and managed to write some code on it
 
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java
+
+# Day 18 of 99: March 28th,2024
+
+Today's progress: Still worked o Linked lists and did some operations on it
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java
+
+# Day 19 of 99: March 29th,2024
+
+Today's progress: I worked throuhg the different traversal methods in linkedlists and managed to manipulate my code using the traversal techniques
+
+Thought: This is a very wide area to work on and the manipulations can be done on it are so many
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java
+
+# Day 20 of 99: March 30th,2024
+
+Today's progress: I started to work on Stack as a data structure in java
+
+Thought: Stacks are specific to LIFO behavior and may not be appropriate in other cases.M eaning they are not suitable for all scenarios
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Stack.java
+
+# Day 21 of 99: March 31st,2024
+
+Today's progress: After learning about stack i did some code and did some manipulations like pushing and iterating objects within a stack
+
+Thought: Stacks are specific to LIFO behavior and may not be appropriate in other cases.M eaning they are not suitable for all scenarios
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Stack.java
+
+
+
+
+
 
 
 
