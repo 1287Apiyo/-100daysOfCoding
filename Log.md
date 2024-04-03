@@ -200,6 +200,39 @@ Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Stack.java
 
 
 
+# Day 22 of 99: April 1st,2024
+
+Today's progress: Still looked at stack implementation
+
+Thought: Stacks are specific to LIFO behavior and may not be appropriate in other cases.M eaning they are not suitable for all scenarios
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Stack.java
+
+
+# Day 23 of 99: April 2nd,2024
+
+Today's progress: Learnt about queues as data structures in java
+
+Thought: Working with queues is faster than the rest even manipulation of data 
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+
+# Day 24 of 99: April 3rd,2024
+
+Today's progress: Implemented queues in code form as i tried to carry out different manipulations that can be done onthem
+
+Thought: Working with queues is faster and easier as compared to the ones i have covered so far 
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+
+
+
+
 
 
 
