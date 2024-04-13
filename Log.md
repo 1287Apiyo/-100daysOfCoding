@@ -237,6 +237,21 @@ Thought: Data Structures is a really important concept for any backend developer
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
+# Day 25 of 99: April 5th,2024
+
+Today's progress: Implemented stacks in code form as i tried to carry out different manipulations that can be done on them
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+# Day 26 of 99: April 6th,2024
+
+Today's progress: Still had a deeper look  on stacks it needed more time 
+
+Thought: Wue i feel like programming is such a wide concept and has so many things to cover
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
 
 
 
