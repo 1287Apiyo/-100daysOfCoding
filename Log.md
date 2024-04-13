@@ -229,6 +229,13 @@ Thought: Working with queues is faster and easier as compared to the ones i have
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
+# Day 25 of 99: April 4th,2024
+
+Today's progress: Went through the basics of stacks
+
+Thought: Data Structures is a really important concept for any backend developer
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
 
 
