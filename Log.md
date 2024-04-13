@@ -247,10 +247,20 @@ Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
 Today's progress: Still had a deeper look  on stacks it needed more time 
 
-Thought: Wue i feel like programming is such a wide concept and has so many things to cover
+Thought: Wueh i feel like programming is such a wide concept and has so many things to cover
 
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+# Day 27  of 99: April 7th,2024
+
+Today's progress: Started to look at hashmaps in details as a data structure
+
+Thought: This was a totally new concept for me as i have not heard of it before
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
 
 
 
