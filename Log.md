@@ -310,8 +310,7 @@ Today's progress: Got back to swing and i have started on a notepad application 
 
 Thought: I think with the exams being done i will be more than productive!!
 
-
-Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+https://github.com/1287Apiyo/Swing_Notepad
 
 
 
