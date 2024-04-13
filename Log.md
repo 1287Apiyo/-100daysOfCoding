@@ -261,6 +261,70 @@ Thought: This was a totally new concept for me as i have not heard of it before
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
+# Day 27 of 99: April 8th,2024
+
+Today's progress: I decided to try implementing hashmap in code form after doing the theoretical part 
+
+Thought: Hashmap is a really interesting concept
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+# Day 28 of 99: April 9th,2024
+
+Today's progress: Still on HashMap!! 
+
+Thought: Let us keep on with this!!
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+# Day 29 of 99: April 10th,2024
+
+Today's progress: Working on HashSet today yaay!
+
+Thought: Almost similar concept to HashMap but easier i guess
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.HashSet
+
+# Day 30 of 99: April 11th,2024
+
+Today's progress: I implemented the set using java
+
+Thought: Such an amaizing experience with data structures
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.HashSet
+
+# Day 31 of 99: April 12th,2024
+
+Today's progress: Looked at Tree,TreeMap and Treeset on this day in deeper detail and also managed to implement code manipulations for each
+
+Thought: I think i have managed to look at each data structure and now i want to try to put them in actual applications
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+# Day 31 of 99: April 13th,2024
+
+Today's progress: Got back to swing and i have started on a notepad application using the framework
+
+Thought: I think with the exams being done i will be more than productive!!
+
+
+Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
