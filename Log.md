@@ -328,11 +328,11 @@ Thought: Coming up with a full system needs consistenc and looking into details 
 
 https://github.com/1287Apiyo/Bank-System
 
-Day 32 of 99 :April 26th,2024
+Day 34 of 99 :April 27th,2024
 
-Today's progress: I have started working on a banking System and collaborating with a friend
+Today's progress: We created a github repository and decided to work on UML diagrams each with their portion and also decided on creating different branches for our project 
 
-Thought: This is my first big project and i hope we manage to cover all the aspects of a system
+Thought: So far so good. A step at a time!!
 
 https://github.com/1287Apiyo/Bank-System
 
