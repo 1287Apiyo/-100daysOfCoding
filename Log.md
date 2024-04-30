@@ -304,7 +304,7 @@ Thought: I think i have managed to look at each data structure and now i want to
 
 Link to work:https://github.com/1287Apiyo/DS-Arrays.java/Queue.java
 
-# Day 31 of 99: April 13th,2024
+# Day 32 of 99: April 13th,2024
 
 Today's progress: Got back to swing and i have started on a notepad application using the framework
 
@@ -312,7 +312,7 @@ Thought: I think with the exams being done i will be more than productive!!
 
 https://github.com/1287Apiyo/Swing_Notepad
 
-Day 32 of 99 :April 26th,2024
+Day 33 of 99 :April 26th,2024
 
 Today's progress: I have started working on a banking System and collaborating with a friend
 
@@ -320,7 +320,7 @@ Thought: This is my first big project and i hope we manage to cover all the aspe
 
 https://github.com/1287Apiyo/Bank-System
 
-Day 33 of 99 :April 27th,2024
+Day 34 of 99 :April 27th,2024
 
 Today's progress: We met and decided on all aspects to cover and an outline for our project including diagrams,databases,the flow of the system,frontend and backend
 
@@ -328,7 +328,7 @@ Thought: Coming up with a full system needs consistenc and looking into details 
 
 https://github.com/1287Apiyo/Bank-System
 
-Day 34 of 99 :April 27th,2024
+Day 35 of 99 :April 28th,2024
 
 Today's progress: We created a github repository and decided to work on UML diagrams each with their portion and also decided on creating different branches for our project 
 
@@ -336,13 +336,22 @@ Thought: So far so good. A step at a time!!
 
 https://github.com/1287Apiyo/Bank-System
 
-Day 35 of 99 :April 28th,2024
+Day 36 of 99 :April 29th,2024
 
 Today's progress: i came up with a class diagram for the  system and my partner came up with a sequence diagram we then pushed our work to the repo as agreed
 
 Thought: For a class diagram i will say it is important to know exactly what classes,objects,properties and methods your system should have before anything is done
 
 https://github.com/1287Apiyo/Bank-System
+
+Day 37 of 99 :April 30th,2024
+
+Today's progress: Moving to our next phase of the project that entails the UI/UX design of our frontend for the system
+
+Thought: This is an interesting but engaging phase that needs absolute dedication and precision because it is how our system will look like 
+
+https://github.com/1287Apiyo/Bank-System
+
 
 
 
