@@ -336,6 +336,16 @@ Thought: So far so good. A step at a time!!
 
 https://github.com/1287Apiyo/Bank-System
 
+Day 35 of 99 :April 28th,2024
+
+Today's progress: i came up with a class diagram for the  system and my partner came up with a sequence diagram we then pushed our work to the repo as agreed
+
+Thought: For a class diagram i will say it is important to know exactly what classes,objects,properties and methods your system should have before anything is done
+
+https://github.com/1287Apiyo/Bank-System
+
+
+
 
 
 
