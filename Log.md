@@ -312,6 +312,38 @@ Thought: I think with the exams being done i will be more than productive!!
 
 https://github.com/1287Apiyo/Swing_Notepad
 
+Day 32 of 99 :April 26th,2024
+
+Today's progress: I have started working on a banking System and collaborating with a friend
+
+Thought: This is my first big project and i hope we manage to cover all the aspects of a system
+
+https://github.com/1287Apiyo/Bank-System
+
+Day 33 of 99 :April 27th,2024
+
+Today's progress: We met and decided on all aspects to cover and an outline for our project including diagrams,databases,the flow of the system,frontend and backend
+
+Thought: Coming up with a full system needs consistenc and looking into details properly
+
+https://github.com/1287Apiyo/Bank-System
+
+Day 32 of 99 :April 26th,2024
+
+Today's progress: I have started working on a banking System and collaborating with a friend
+
+Thought: This is my first big project and i hope we manage to cover all the aspects of a system
+
+https://github.com/1287Apiyo/Bank-System
+
+
+
+
+
+
+
+
+
 
 
 
