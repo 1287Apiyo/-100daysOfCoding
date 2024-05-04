@@ -361,13 +361,21 @@ Thought: Design is a reall imortant part for the system as it will help us code 
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 38 of 99 :May 2nd ,2024
+Day 39 of 99 :May 2nd ,2024
 
 Today's progress:Did something out of the project. Coded a giftbox for my bestfriend.
 
 Thought: I hope she likes it
 
 https://github.com/1287Apiyo/Olaf
+
+Day 40 of 99 :May 3rd ,2024
+
+Today's progress:We chose the theme for our designs and divided the pages with my partner accordingly
+
+Thought: Step by step we believe we will create something great!!
+
+https://github.com/1287Apiyo/Online-Banking-System
 
 
 
