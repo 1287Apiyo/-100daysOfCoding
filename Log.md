@@ -377,6 +377,15 @@ Thought: Step by step we believe we will create something great!!
 
 https://github.com/1287Apiyo/Online-Banking-System
 
+Day 41 of 99 :May 4th ,2024
+
+Today's progress:Designed the transactions,Deposit and Withdraw pages of the Banking System
+
+Thought: I must admit design is really interesting but requires a creative and dedicated mind
+
+https://github.com/1287Apiyo/Online-Banking-System
+
+
 
 
 
