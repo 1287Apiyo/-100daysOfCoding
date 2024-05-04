@@ -318,7 +318,7 @@ Today's progress: I have started working on a banking System and collaborating w
 
 Thought: This is my first big project and i hope we manage to cover all the aspects of a system
 
-https://github.com/1287Apiyo/Bank-System
+https://github.com/1287Apiyo/Online-Banking-System
 
 Day 34 of 99 :April 27th,2024
 
@@ -326,7 +326,7 @@ Today's progress: We met and decided on all aspects to cover and an outline for 
 
 Thought: Coming up with a full system needs consistenc and looking into details properly
 
-https://github.com/1287Apiyo/Bank-System
+https://github.com/1287Apiyo/Online-Banking-System
 
 Day 35 of 99 :April 28th,2024
 
@@ -334,7 +334,7 @@ Today's progress: We created a github repository and decided to work on UML diag
 
 Thought: So far so good. A step at a time!!
 
-https://github.com/1287Apiyo/Bank-System
+https://github.com/1287Apiyo/Online-Banking-System
 
 Day 36 of 99 :April 29th,2024
 
@@ -342,7 +342,7 @@ Today's progress: i came up with a class diagram for the  system and my partner 
 
 Thought: For a class diagram i will say it is important to know exactly what classes,objects,properties and methods your system should have before anything is done
 
-https://github.com/1287Apiyo/Bank-System
+https://github.com/1287Apiyo/Online-Banking-System
 
 Day 37 of 99 :April 30th,2024
 
@@ -350,7 +350,8 @@ Today's progress: Moving to our next phase of the project that entails the UI/UX
 
 Thought: This is an interesting but engaging phase that needs absolute dedication and precision because it is how our system will look like 
 
-https://github.com/1287Apiyo/Bank-System
+https://github.com/1287Apiyo/Online-Banking-System
+
 
 Day 38 of 99 :May 1st ,2024
 
@@ -358,9 +359,7 @@ Today's progress:Began the UI and UX design of our system
 
 Thought: Design is a reall imortant part for the system as it will help us code and come up with our system effecively
 
-https://github.com/1287Apiyo/Bank-System
-
-
+https://github.com/1287Apiyo/Online-Banking-System
 
 
 
