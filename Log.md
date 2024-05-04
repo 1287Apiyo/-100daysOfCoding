@@ -312,7 +312,7 @@ Thought: I think with the exams being done i will be more than productive!!
 
 https://github.com/1287Apiyo/Swing_Notepad
 
-Day 33 of 99 :April 26th,2024
+# Day 33 of 99 :April 26th,2024
 
 Today's progress: I have started working on a banking System and collaborating with a friend
 
@@ -320,7 +320,7 @@ Thought: This is my first big project and i hope we manage to cover all the aspe
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 34 of 99 :April 27th,2024
+# Day 34 of 99 :April 27th,2024
 
 Today's progress: We met and decided on all aspects to cover and an outline for our project including diagrams,databases,the flow of the system,frontend and backend
 
@@ -328,7 +328,7 @@ Thought: Coming up with a full system needs consistenc and looking into details 
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 35 of 99 :April 28th,2024
+# Day 35 of 99 :April 28th,2024
 
 Today's progress: We created a github repository and decided to work on UML diagrams each with their portion and also decided on creating different branches for our project 
 
@@ -336,7 +336,7 @@ Thought: So far so good. A step at a time!!
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 36 of 99 :April 29th,2024
+# Day 36 of 99 :April 29th,2024
 
 Today's progress: i came up with a class diagram for the  system and my partner came up with a sequence diagram we then pushed our work to the repo as agreed
 
@@ -344,7 +344,7 @@ Thought: For a class diagram i will say it is important to know exactly what cla
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 37 of 99 :April 30th,2024
+# Day 37 of 99 :April 30th,2024
 
 Today's progress: Moving to our next phase of the project that entails the UI/UX design of our frontend for the system
 
@@ -353,7 +353,7 @@ Thought: This is an interesting but engaging phase that needs absolute dedicatio
 https://github.com/1287Apiyo/Online-Banking-System
 
 
-Day 38 of 99 :May 1st ,2024
+#  Day 38 of 99 :May 1st ,2024
 
 Today's progress:Began the UI and UX design of our system
 
@@ -361,7 +361,7 @@ Thought: Design is a reall imortant part for the system as it will help us code 
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 39 of 99 :May 2nd ,2024
+#  Day 39 of 99 :May 2nd ,2024
 
 Today's progress:Did something out of the project. Coded a giftbox for my bestfriend.
 
@@ -369,7 +369,7 @@ Thought: I hope she likes it
 
 https://github.com/1287Apiyo/Olaf
 
-Day 40 of 99 :May 3rd ,2024
+#  Day 40 of 99 :May 3rd ,2024
 
 Today's progress:We chose the theme for our designs and divided the pages with my partner accordingly
 
@@ -377,7 +377,7 @@ Thought: Step by step we believe we will create something great!!
 
 https://github.com/1287Apiyo/Online-Banking-System
 
-Day 41 of 99 :May 4th ,2024
+#  Day 41 of 99 :May 4th ,2024
 
 Today's progress:Designed the transactions,Deposit and Withdraw pages of the Banking System
 
