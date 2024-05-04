@@ -352,6 +352,14 @@ Thought: This is an interesting but engaging phase that needs absolute dedicatio
 
 https://github.com/1287Apiyo/Bank-System
 
+Day 38 of 99 :May 1st ,2024
+
+Today's progress:Began the UI and UX design of our system
+
+Thought: Design is a reall imortant part for the system as it will help us code and come up with our system effecively
+
+https://github.com/1287Apiyo/Bank-System
+
 
 
 
