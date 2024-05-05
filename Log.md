@@ -334,7 +334,7 @@ Today's progress: We created a github repository and decided to work on UML diag
 
 Thought: So far so good. A step at a time!!
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 # Day 36 of 99 :April 29th,2024
 
@@ -342,7 +342,7 @@ Today's progress: i came up with a class diagram for the  system and my partner 
 
 Thought: For a class diagram i will say it is important to know exactly what classes,objects,properties and methods your system should have before anything is done
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 # Day 37 of 99 :April 30th,2024
 
@@ -350,7 +350,7 @@ Today's progress: Moving to our next phase of the project that entails the UI/UX
 
 Thought: This is an interesting but engaging phase that needs absolute dedication and precision because it is how our system will look like 
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 
 #  Day 38 of 99 :May 1st ,2024
