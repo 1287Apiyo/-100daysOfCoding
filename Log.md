@@ -318,7 +318,7 @@ Today's progress: I have started working on a banking System and collaborating w
 
 Thought: This is my first big project and i hope we manage to cover all the aspects of a system
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 # Day 34 of 99 :April 27th,2024
 
