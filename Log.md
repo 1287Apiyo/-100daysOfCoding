@@ -326,7 +326,7 @@ Today's progress: We met and decided on all aspects to cover and an outline for 
 
 Thought: Coming up with a full system needs consistenc and looking into details properly
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 # Day 35 of 99 :April 28th,2024
 
