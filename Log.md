@@ -359,7 +359,7 @@ Today's progress:Began the UI and UX design of our system
 
 Thought: Design is a reall imortant part for the system as it will help us code and come up with our system effecively
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link:https://github.com/1287Apiyo/Online-Banking-Management-System
 
 #  Day 39 of 99 :May 2nd ,2024
 
@@ -375,7 +375,7 @@ Today's progress:We chose the theme for our designs and divided the pages with m
 
 Thought: Step by step we believe we will create something great!!
 
-https://github.com/1287Apiyo/Online-Banking-System
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
 #  Day 41 of 99 :May 4th ,2024
 
