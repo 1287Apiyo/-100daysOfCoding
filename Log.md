@@ -385,6 +385,17 @@ Thought: I must admit design is really interesting but requires a creative and d
 
 https://github.com/1287Apiyo/Online-Banking-System
 
+#  Day 42 of 99 :May 5th ,2024
+
+Today's progress:I finished designing my first portion of pages now moving to the next that include Accounts and Sign Up pages
+
+Thought: I discovered that there are AIs that can generate UIs and UXs...but you need to pay after two trials,,the free ones do not give much though.  I   however built
+          my designs from scratch using Figma. I feel satisfied
+          
+https://github.com/1287Apiyo/Online-Banking-System
+
+
+
 
 
 
