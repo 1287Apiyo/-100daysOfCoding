@@ -394,7 +394,30 @@ Thought: I discovered that there are AIs that can generate UIs and UXs...but you
           
 Link: https://github.com/1287Apiyo/Online-Banking-Management-System
 
+#  Day 43 of 99 :May 6th ,2024
 
+Today's progress:Finally done with the design phase of our system
+
+Thought: I discovered that there are AIs that can generate UIs and UXs...but you need to pay after two trials,,the free ones do not give much though.  I   however built
+          my designs from scratch using Figma. I feel satisfied
+          
+Link: https://github.com/1287Apiyo/Online-Banking-Management-System
+
+#  Day 44 of 99 :May 7th ,2024
+
+Today's progress: Today i decided to continue working on my linux admin course
+
+Thought: I am really not sure of my path but devops is definately part of it
+
+Link: No github link yet
+
+#  Day 45 of 99 :May 6th ,2024
+
+Today's progress:Building a thoughtful gift for a close person .Majored in frontend languages
+
+Thought: The best thing to do with this skill is to show love to close family and friends by coming up with thoughtful sites and gifts
+
+Link: https://github.com/1287Apiyo/Olaf
 
 
 
