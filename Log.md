@@ -11,7 +11,7 @@ Thoughts:It is a totally new concept but i am sure i will grasp the concepts wit
 # Day1 of 99:March 12,2024
   Todays progres: I managed to generate a java project using the framework ,i learnt about the different
                  dependencies within the framework one can add to their project depending on what is needed.
-
+ 
                  
   Thoughts: This was an amazing experience as the whole project is actually structured to what you need.
               Eager to learn more!!
